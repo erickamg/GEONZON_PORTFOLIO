@@ -1,13 +1,10 @@
-# Ericka's Portfolio 🌿
+# Ericka's Portfolio 
 
-A personal portfolio website built for the MATA Technologies Inc. Skills Showcase Challenge
-(Web Development Intern Challenge).
+A personal portfolio website showcasing my skills, projects, and background as a BS Information Technology student.
 
 ## Description
 
-A single-page portfolio with a botanical, garden-journal visual theme — sage green, warm
-beige, and a peachy accent — featuring a Home section with a short bio, a Projects section
-showcasing three real projects, and a Contact section with a client-side-validated form.
+A single-page portfolio in a clean green-and-beige color palette, featuring a Home section with a short bio, a Projects section showcasing three real projects, and a Contact section with a client-side-validated form.
 
 ## Technologies used
 
@@ -31,7 +28,7 @@ showcasing three real projects, and a Contact section with a client-side-validat
 No build step required.
 
 1. Clone the repo
-2. Open `index.html` in a browser — that's it
+2. Open `index.html` in a browser
 
 To deploy on GitHub Pages: Settings → Pages → set source to the `main` branch, root folder.
 
@@ -39,11 +36,7 @@ To deploy on GitHub Pages: Settings → Pages → set source to the `main` branc
 
 ## Before you publish
 
-- [ ] Replace `assets/profile-placeholder.svg` with a real photo (swap the `<img src>` in
-      `index.html`'s hero section)
-- [ ] Swap the three project SVG placeholders in `assets/` for real screenshots
 - [ ] Fill in the `href="#"` repo/demo links on each project card
-- [ ] Update the bio copy in the Home section to sound like you
 - [ ] Add your real email/socials to the Contact section if you want them listed
 
 ## Folder structure
