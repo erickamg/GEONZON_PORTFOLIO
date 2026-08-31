@@ -32,12 +32,9 @@ No build step required.
 
 To deploy on GitHub Pages: Settings → Pages → set source to the `main` branch, root folder.
 
-**Live site:** _add your deployed link here once published_
+**Live site:** _(https://erickamg.github.io/GEONZON_PORTFOLIO/)_
 
-## Before you publish
 
-- [ ] Fill in the `href="#"` repo/demo links on each project card
-- [ ] Add your real email/socials to the Contact section if you want them listed
 
 ## Folder structure
 
@@ -47,9 +44,8 @@ portfolio/
 ├── style.css
 ├── script.js
 ├── README.md
-└── assets/
-    ├── profile-placeholder.svg
-    ├── project-hydronet.svg
-    ├── project-chatbot.svg
-    └── project-gallery.svg
+├── Edds.PNG
+├── neals.PNG
+├── StudyMate.PNG
+├── profile.PNG
 ```
